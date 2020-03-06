@@ -1,5 +1,5 @@
 {
-  "name": "voku/session2db",
+  "name": "svgaman/session2db",
   "type": "library",
   "description": "A PHP library acting as a wrapper for PHP's default session handling functions which stores data in a MySQL database, providing both better performance and better security and protection against session fixation and session hijacking.",
   "keywords": [
@@ -13,7 +13,7 @@
     "mysql",
     "database"
   ],
-  "homepage": "http://stefangabos.ro/php-libraries/zebra-session/",
+  "homepage": "https://github.com/svgaman/session2db",
   "license": "LGPL-3.0",
   "authors": [
     {
